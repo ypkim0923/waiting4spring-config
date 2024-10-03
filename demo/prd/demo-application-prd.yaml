@@ -1,0 +1,4 @@
+io:
+  autocrypt:
+    profile: prd
+    test: imprd
